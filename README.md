@@ -124,5 +124,5 @@ winner23456@naver.com
 
 <!-- Hits -->
 ## 🧑‍💻 방문자 수 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwwkler%2Fhit-counter&count_bg=%2379C83D&title_bg=%23BE0EAE&icon=&icon_color=%238BCF4F&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=true"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwwkler&count_bg=%23EED916&title_bg=%23CF10DC&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98+&edge_flat=false"/></a>
 
