@@ -2,13 +2,47 @@
 <!-- header를 표시한다 --> 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=😄😄😄김영우의%20집에%20오신%20것을%20환영합니다!!!!😄😄😄%20&render&fontSize=30&animation=twinkling)
 
+<br>
+
+<!-- Connect & Channel -->
+## 🔗 Contact Information
+
+---
+
+### ✉️ Email
+winner23456@naver.com
+
+---
+
+### 🔗 LinkedIn
+[www.linkedin.com/in/yywwKim](https://www.linkedin.com/in/yywwKim)
+
+---
+
+### 📚 Notion 이력서 + 포트폴리오 (View용)
+[Notion Link](https://delicate-trouble-d06.notion.site/Mike-Rachel-Kim-16b5bfcbe0478070bba3d56669ec1b74)
+
+---
+
+### 📄 이력서 (PDF 프린트용)
+[2025_김영우_이력서.pdf](https://github.com/user-attachments/files/18468080/2025_._.pdf)
+
+
+---
+
+### 🗂️ 포트폴리오 (PDF 프린트용)
+1월 말 업로드 예정
+
+---
+
+<br>
 
 <!-- 테크 스텍을 표시한다. --> 
 ## 🛠️  Tech Stack
 분류                            | 기술 스택                                       |
 |---------------------------------|------------------------------------------------|
 | **프로그래밍 언어**             | 🐍Python, ☕Java, 🌐HTML, 🎨CSS, ✨Javascript,  🌀Dart                  |
-| ** 프레임워크 **             | 🌐Django, ⚡Flask, ⚡FastAPI, 🖥️Streamlit, 📱Flutter, 💻Android Studio                 |
+| **프레임워크**             | 🌐Django, ⚡Flask, ⚡FastAPI, 🖥️Streamlit, 📱Flutter, 💻Android Studio                 |
 | **데이터 처리**                 | 🔥Apache Spark          |
 | **데이터베이스**                | 🐬MySQL, 🐘PostgreSQL, 📦SQLite, 🍃MongoDB                              |
 | **ETL 도구**                   | 💨Apache Airflow                                 |
@@ -22,10 +56,11 @@
 | **CI/CD 도구**                 |  🚀GitHub Actions          |
 | **웹 크롤링**                 | 🍲Beautiful Soup, 🚗Selenium                       |
 | **IDE**                         | 💻VSCode, 🔵IntelliJ                      |
+| **Collaboration**                | 🐙GitHub, ✍️Notion, 🤝Slack                      |
 
 <br>
 
-<!-- Github Stats와 자주 사용하는 언어를 표시한다. -->
+<!-- Github Stats와 자주 사용하는 언어 그리고 코딩 테스트 레벨를 표시한다. -->
 ## 📊 My GitHub Stats
 <table>
   <tr>
@@ -39,6 +74,14 @@
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wwkler&layout=compact&hide=Jupyter%20Notebook" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <!-- Solved.ac Badge -->
+    <td colspan="2" align="center">
+      <a href="https://solved.ac/winner23456">
+        <img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=winner23456" alt="Solved.ac 프로필" />
       </a>
     </td>
   </tr>
