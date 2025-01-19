@@ -15,32 +15,32 @@
 ## 🖥️ My GitHub Profile
 
 ### 🛠️ 데이터 엔지니어링 프로젝트 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wwkler&repo=han_river_swarm&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DEProjTeam07&repo=coc-model&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DEProjTeam07&repo=coc-pipeline&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wwkler&repo=whisper_mlops_project&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wwkler&repo=han_river_swarm&show_owner=true)](https://github.com/wwkler/han_river_swarm)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DEProjTeam07&repo=coc-model&show_owner=true)](https://github.com/DEProjTeam07/coc-model)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DEProjTeam07&repo=coc-pipeline&show_owner=true)](https://github.com/DEProjTeam07/coc-pipeline)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wwkler&repo=whisper_mlops_project&show_owner=true)](https://github.com/wwkler/whisper_mlops_project)
 
 <br>
 
 ### 🖌️ 프론트엔드 프로젝트 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wwkler&repo=book&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wwkler&repo=ENTER-FE&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wwkler&repo=fine_dust&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wwkler&repo=random_Cat&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wwkler&repo=book&show_owner=true)](https://github.com/wwkler/book)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wwkler&repo=ENTER-FE&show_owner=true)](https://github.com/wwkler/ENTER-FE)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wwkler&repo=fine_dust&show_owner=true)](https://github.com/wwkler/fine_dust)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wwkler&repo=random_Cat&show_owner=true)](https://github.com/wwkler/random_Cat)
 
 <br>
 
 ### 📈🤖 데이터 분석 및 AI 모델 프로젝트
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wwkler&repo=car_condition_classification&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wwkler&repo=sensor_data_pose_classification_version2&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wwkler&repo=Navi_Arrival_Time_Regression&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wwkler&repo=Customer_Churn_Classification&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wwkler&repo=Aivle_School_Apply_QA_Chatbot&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wwkler&repo=car_condition_classification&show_owner=true)](https://github.com/wwkler/car_condition_classification)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wwkler&repo=sensor_data_pose_classification_version2&show_owner=true)](https://github.com/wwkler/sensor_data_pose_classification_version2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wwkler&repo=Navi_Arrival_Time_Regression&show_owner=true)](https://github.com/wwkler/Navi_Arrival_Time_Regression)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wwkler&repo=Customer_Churn_Classification&show_owner=true)](https://github.com/wwkler/Customer_Churn_Classification)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wwkler&repo=Aivle_School_Apply_QA_Chatbot&show_owner=true)](https://github.com/wwkler/Aivle_School_Apply_QA_Chatbot)
 
 <br>
 
 ### 📋 사업 계획서 작성 프로젝트 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wwkler&repo=business_planning&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wwkler&repo=business_planning&show_owner=true)](https://github.com/wwkler/business_planning)
 
 
 
