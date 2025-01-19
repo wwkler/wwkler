@@ -114,6 +114,8 @@ winner23456@naver.com
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wwkler&repo=Navi_Arrival_Time_Regression&show_owner=true)](https://github.com/wwkler/Navi_Arrival_Time_Regression)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wwkler&repo=Customer_Churn_Classification&show_owner=true)](https://github.com/wwkler/Customer_Churn_Classification)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wwkler&repo=Aivle_School_Apply_QA_Chatbot&show_owner=true)](https://github.com/wwkler/Aivle_School_Apply_QA_Chatbot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wwkler&repo=ronaldo_anaylze_visualization&show_owner=true)](https://github.com/wwkler/ronaldo_anaylze_visualization)
+
 
 <br>
 
