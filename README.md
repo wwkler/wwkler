@@ -1,15 +1,50 @@
 
 <!-- header를 표시한다 --> 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=김영우의%20집에%20오신%20것을%20환영합니다!!!!%20&render&fontSize=30&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=😄😄😄김영우의%20집에%20오신%20것을%20환영합니다!!!!😄😄😄%20&render&fontSize=30&animation=twinkling)
 
 
+<!-- 테크 스텍을 표시한다. --> 
+## 🛠️  Tech Stack
+분류                            | 기술 스택                                       |
+|---------------------------------|------------------------------------------------|
+| **프로그래밍 언어**             | 🐍Python, ☕Java, 🌐HTML, 🎨CSS, ✨Javascript,  🌀Dart                  |
+| ** 프레임워크 **             | 🌐Django, ⚡Flask, ⚡FastAPI, 🖥️Streamlit, 📱Flutter, 💻Android Studio                 |
+| **데이터 처리**                 | 🔥Apache Spark          |
+| **데이터베이스**                | 🐬MySQL, 🐘PostgreSQL, 📦SQLite, 🍃MongoDB                              |
+| **ETL 도구**                   | 💨Apache Airflow                                 |
+| **메시지 브로커**               | 💬Apache Kafka                                   |
+| **클라우드 플랫폼**             | ☁️AWS, ☁️GCP                                    |
+| **컨테이너 및 오케스트레이션**  | 🐳Docker, ☸️Kubernetes                             |
+| **모니터링 및 로깅**            | 🔍📦📊ELK, 🔥Prometheous, 🌟Grafana                                           |
+| **데이터 시각화**               | 📊Kibana, 📈Tableau, 🧮Matplotlib, 🌈Seaborn                                |
+| **머신 러닝 및 딥러닝**         | 🧠PyTorch, 🔶Tensorflow      |
+| **버전 관리**                   | 🐙GitHub                                 |
+| **CI/CD 도구**                 |  🚀GitHub Actions          |
+| **웹 크롤링**                 | 🍲Beautiful Soup, 🚗Selenium                       |
+| **IDE**                         | 💻VSCode, 🔵IntelliJ                      |
 
-<!-- Github Stats를 표시한다. -->
+<br>
+
+<!-- Github Stats와 자주 사용하는 언어를 표시한다. -->
 ## 📊 My GitHub Stats
+<table>
+  <tr>
+    <!-- GitHub Stats -->
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=wwkler&count_private=true&show_icons=true&theme=flag-india&locale=kr" />
+      </a>
+    </td>
+    <!-- Top Languages -->
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wwkler&layout=compact&hide=Jupyter%20Notebook" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-[![김영우's GitHub stats](https://github-readme-stats.vercel.app/api?username=wwkler&count_private=true&show_icons=true&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<br>
 
 <!-- GitHub 저장소 핀을 표시한다. -->
 ## 🖥️ My GitHub Profile
@@ -42,20 +77,9 @@
 ### 📋 사업 계획서 작성 프로젝트 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wwkler&repo=business_planning&show_owner=true)](https://github.com/wwkler/business_planning)
 
+<br>
 
+<!-- Hits -->
+## 🧑‍💻 방문자 수 
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwwkler%2Fhit-counter&count_bg=%2379C83D&title_bg=%23BE0EAE&icon=&icon_color=%238BCF4F&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=true"/></a>
 
-
-<!--
-**wwkler/wwkler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
