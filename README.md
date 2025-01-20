@@ -25,7 +25,8 @@ winner23456@naver.com
 ---
 
 ### 📄 이력서 (PDF 프린트용)
-[2025_김영우_이력서.pdf](https://github.com/user-attachments/files/18468080/2025_._.pdf)
+[2025_김영우_이력서입니다.pdf](https://github.com/user-attachments/files/18471764/2025_._.pdf)
+
 
 
 ---
