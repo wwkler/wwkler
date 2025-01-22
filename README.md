@@ -32,7 +32,7 @@ winner23456@naver.com
 ---
 
 ### 🗂️ 포트폴리오 (PDF 프린트용)
-[2025_김영우_Portfolio.pdf](https://github.com/user-attachments/files/18502211/2025_._Portfolio.pdf)
+[2025_KYKIM_Portfolio.pdf](https://github.com/user-attachments/files/18502712/2025_KYKIM_Portfolio.pdf)
 
 
 ---
